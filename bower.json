@@ -1,0 +1,7 @@
+{
+  "name": "ember-simple-wsse-auth",
+  "version": "0.0.2",
+  "main": [
+    "./ember-simple-wsse-auth.js"
+  ]
+}
